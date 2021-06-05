@@ -1,0 +1,35 @@
+2021-05-20 15:13:51.127 [main] INFO  iDoge.Other.Sign_in - WELCOME TO iDOGE!!!
+2021-05-20 15:13:51.133 [main] INFO  iDoge.Other.Sign_in - Do you have an account? (yes/no)
+2021-05-20 15:13:55.895 [main] INFO  iDoge.Other.Sign_in - Enter your username:
+2021-05-20 15:13:58.135 [main] INFO  iDoge.Other.Sign_in - User loaded
+2021-05-20 15:13:58.135 [main] INFO  iDoge.Other.Sign_in - File opened
+2021-05-20 15:13:58.242 [main] INFO  iDoge.Other.Sign_in - User loaded
+2021-05-20 15:13:58.242 [main] INFO  iDoge.Other.Sign_in - File opened
+2021-05-20 15:13:58.246 [main] INFO  iDoge.Profile.Profile - File opened
+2021-05-20 15:13:58.246 [main] INFO  iDoge.Profile.Profile - Profile loaded
+2021-05-20 15:14:00.899 [main] INFO  iDoge.Other.Sign_in - reza Enter your password:
+2021-05-20 15:14:00.901 [main] INFO  iDoge.Profile.Profile - File opened
+2021-05-20 15:14:00.901 [main] INFO  iDoge.Profile.Profile - Profile loaded
+2021-05-20 15:14:00.921 [main] INFO  iDoge.Other.Main_Menu - MAIN MENU
+2021-05-20 15:14:00.921 [main] INFO  iDoge.Other.Main_Menu - Enter section number to enter:
+2021-05-20 15:14:04.922 [main] INFO  iDoge.Timeline.Timeline_Page - File opened
+2021-05-20 15:14:04.922 [main] INFO  iDoge.Timeline.Timeline_Page - File closed
+2021-05-20 15:14:04.932 [main] INFO  iDoge.Timeline.Timeline_Page - File opened
+2021-05-20 15:14:04.932 [main] INFO  iDoge.Timeline.Timeline_Page - File closed
+2021-05-20 15:14:04.942 [main] INFO  iDoge.Timeline.Timeline_Page - File opened
+2021-05-20 15:14:04.942 [main] INFO  iDoge.Timeline.Timeline_Page - File closed
+2021-05-20 15:14:04.950 [main] INFO  iDoge.Timeline.Timeline_Page - File opened
+2021-05-20 15:14:04.950 [main] INFO  iDoge.Timeline.Timeline_Page - File closed
+2021-05-20 15:14:04.958 [main] INFO  iDoge.Timeline.Timeline_Page - File opened
+2021-05-20 15:14:04.958 [main] INFO  iDoge.Timeline.Timeline_Page - File closed
+2021-05-20 15:14:04.969 [main] INFO  iDoge.Timeline.Timeline_Page - File opened
+2021-05-20 15:14:04.969 [main] INFO  iDoge.Timeline.Timeline_Page - File closed
+2021-05-20 15:14:04.971 [main] INFO  iDoge.Profile.Profile - File opened
+2021-05-20 15:14:04.971 [main] INFO  iDoge.Profile.Profile - Profile loaded
+2021-05-20 15:14:04.978 [main] INFO  iDoge.Timeline.Timeline_Page - Posts sorted
+2021-05-20 15:14:04.981 [main] INFO  iDoge.Timeline.Pages.AfterTimelinePages.Your_Barks_Comments_Page2 - BARKS PAGE
+2021-05-20 15:14:04.981 [main] INFO  iDoge.Timeline.Pages.AfterTimelinePages.Your_Barks_Comments_Page2 - Enter Bark number to enter:
+2021-05-20 15:14:29.923 [main] INFO  iDoge.Profile.Profile - File opened
+2021-05-20 15:14:29.923 [main] INFO  iDoge.Profile.Profile - Profile loaded
+2021-05-20 15:14:29.947 [main] INFO  iDoge.Timeline.Pages.AfterTimelinePages.AfterYourBarksCommentsPages.Bark_Comment_Page2 - BARK / COMMENT No. 2/2
+2021-05-20 15:14:29.947 [main] INFO  iDoge.Timeline.Pages.AfterTimelinePages.AfterYourBarksCommentsPages.Bark_Comment_Page2 - Enter Bark number to enter:

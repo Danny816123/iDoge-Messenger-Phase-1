@@ -1,0 +1,76 @@
+iDoge/Other/Bark_Comment.java
+ iDoge.Other.Bark_Comment
+iDoge/Messenger/Chat.java
+ iDoge.Messenger.Chat
+iDoge/Other/ConsoleColors.java
+ iDoge.Other.ConsoleColors
+iDoge/Profile/Pages/AfterProfilePages/New_Bark_Comment_Page.java
+ iDoge.Profile.Pages.AfterProfilePages.New_Bark_Comment_Page
+iDoge/Other/Sign_in.java
+ iDoge.Other.Sign_in
+iDoge/Other/Follow_Request.java
+ iDoge.Other.Follow_Request
+iDoge/Profile/Pages/Profile_Page.java
+ iDoge.Profile.Pages.Profile_Page
+iDoge/Messenger/Pages/AfterMessengerPages/Saved_Messages_Pages.java
+ iDoge.Messenger.Pages.AfterMessengerPages.Saved_Messages_Pages
+iDoge/Messenger/Pages/AfterMessengerPages/AfterPacksPage/AfterManagePacksPage/AfterSelectedPackPage/Remove_User_from_Pack_Page.java
+ iDoge.Messenger.Pages.AfterMessengerPages.AfterPacksPage.AfterManagePacksPage.AfterSelectedPackPage.Remove_User_from_Pack_Page
+iDoge/Profile/Pages/Personal_Profile_Page.java
+ iDoge.Profile.Pages.Personal_Profile_Page
+iDoge/Profile/Pages/AfterProfilePages/AfterNotificationsPage/Received_Follow_Request_Page.java
+ iDoge.Profile.Pages.AfterProfilePages.AfterNotificationsPage.Received_Follow_Request_Page
+iDoge/Profile/Pages/AfterProfilePages/AfterYourBarksCommentsPage/Bark_Comment_Page.java
+ iDoge.Profile.Pages.AfterProfilePages.AfterYourBarksCommentsPage.Bark_Comment_Page
+iDoge/Messenger/Pages/AfterMessengerPages/AfterPacksPage/AfterManagePacksPage/Add_Packs_Page.java
+ iDoge.Messenger.Pages.AfterMessengerPages.AfterPacksPage.AfterManagePacksPage.Add_Packs_Page
+iDoge/Messenger/Pages/AfterMessengerPages/Chat_List_Page.java
+ iDoge.Messenger.Pages.AfterMessengerPages.Chat_List_Page
+iDoge/Messenger/Pages/AfterMessengerPages/AfterPacksPage/Manage_Packs_Page.java
+ iDoge.Messenger.Pages.AfterMessengerPages.AfterPacksPage.Manage_Packs_Page
+iDoge/Profile/Pages/AfterProfilePages/Lists_Page.java
+ iDoge.Profile.Pages.AfterProfilePages.Lists_Page
+iDoge/Profile/Pages/AfterProfilePages/Notifications_Page.java
+ iDoge.Profile.Pages.AfterProfilePages.Notifications_Page
+iDoge/Other/User.java
+ iDoge.Other.User
+iDoge/Messenger/Pages/AfterMessengerPages/AfterPacksPage/AfterManagePacksPage/AfterSelectedPackPage/Add_User_to_Pack_Page.java
+ iDoge.Messenger.Pages.AfterMessengerPages.AfterPacksPage.AfterManagePacksPage.AfterSelectedPackPage.Add_User_to_Pack_Page
+iDoge/Explorer/Explorer_Page.java
+ iDoge.Explorer.Explorer_Page
+iDoge/Messenger/Pages/AfterMessengerPages/AfterPacksPage/AfterManagePacksPage/Selected_Pack_Page.java
+ iDoge.Messenger.Pages.AfterMessengerPages.AfterPacksPage.AfterManagePacksPage.Selected_Pack_Page
+iDoge/Profile/Profile.java
+ iDoge.Profile.Profile
+iDoge/Messenger/Pages/Messenger_Page.java
+ iDoge.Messenger.Pages.Messenger_Page
+iDoge/Profile/Pages/AfterProfilePages/Your_Barks_Comments_Page.java
+ iDoge.Profile.Pages.AfterProfilePages.Your_Barks_Comments_Page
+iDoge/iDoge.java
+ iDoge.iDoge
+iDoge/Profile/Pages/AfterProfilePages/Info_Page.java
+ iDoge.Profile.Pages.AfterProfilePages.Info_Page
+iDoge/Messenger/Pages/AfterMessengerPages/AfterChatListPages/Chat_Page.java
+ iDoge.Messenger.Pages.AfterMessengerPages.AfterChatListPages.Chat_Page
+iDoge/Messenger/Pages/AfterMessengerPages/AfterPacksPage/Send_Message_Page.java
+ iDoge.Messenger.Pages.AfterMessengerPages.AfterPacksPage.Send_Message_Page
+iDoge/Messenger/Pages/AfterMessengerPages/AfterPacksPage/AfterSendMessagePage/Choose_Users_Page.java
+ iDoge.Messenger.Pages.AfterMessengerPages.AfterPacksPage.AfterSendMessagePage.Choose_Users_Page
+iDoge/Settings/Settings_Page.java
+ iDoge.Settings.Settings_Page
+iDoge/Other/Main_Menu.java
+ iDoge.Other.Main_Menu
+iDoge/Messenger/Pages/AfterMessengerPages/Packs_Page.java
+ iDoge.Messenger.Pages.AfterMessengerPages.Packs_Page
+iDoge/Messenger/Pages/AfterMessengerPages/AfterPacksPage/AfterSendMessagePage/Choose_Packs_Page.java
+ iDoge.Messenger.Pages.AfterMessengerPages.AfterPacksPage.AfterSendMessagePage.Choose_Packs_Page
+iDoge/Settings/AfterSettingsPages/Privacy_Settings_Page.java
+ iDoge.Settings.AfterSettingsPages.Privacy_Settings_Page
+iDoge/Timeline/Pages/AfterTimelinePages/New_Bark_Comment_Page2.java
+ iDoge.Timeline.Pages.AfterTimelinePages.New_Bark_Comment_Page2
+iDoge/Timeline/Timeline_Page.java
+ iDoge.Timeline.Timeline_Page
+iDoge/Timeline/Pages/AfterTimelinePages/AfterYourBarksCommentsPages/Bark_Comment_Page2.java
+ iDoge.Timeline.Pages.AfterTimelinePages.AfterYourBarksCommentsPages.Bark_Comment_Page2
+iDoge/Timeline/Pages/AfterTimelinePages/Your_Barks_Comments_Page2.java
+ iDoge.Timeline.Pages.AfterTimelinePages.Your_Barks_Comments_Page2
